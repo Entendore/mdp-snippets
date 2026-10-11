@@ -1,0 +1,9 @@
+node_modules/**
+src/**
+test/**
+.vscode/**
+tsconfig.json
+bunfig.toml
+bun.lock
+bun.lockb
+*.vsix
